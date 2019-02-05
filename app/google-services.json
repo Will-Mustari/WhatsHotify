@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "297529596108",
+    "firebase_url": "https://whatshotify.firebaseio.com",
+    "project_id": "whatshotify",
+    "storage_bucket": "whatshotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297529596108:android:ba67a2009651cf4c",
+        "android_client_info": {
+          "package_name": "stretchdog.com.whatshotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297529596108-gf8pvm9d029dev5datla50v3sftr6fa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-hcBz7ai1N5gdlpUALZXpMMwckv1np-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
